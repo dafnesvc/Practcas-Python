@@ -12,4 +12,4 @@ frase="Esta Es Una Frase Para Ser Formateada".lower()#El método lower hace que 
 #Deja esta frase totalmente en letras mayúsculas:
 #"Esta Es Una Frase Para Ser Formateada.
 frase2="Esta Es Una Frase Para Ser Formateada.".upper() #Con este método conseguimos convertir todos y absolutamente todos los caracteres de un string en mayúsculas
-  print(frase2) imprime el valo de la variable frase2
+  print(frase2)# imprime el valor de la variable frase2
